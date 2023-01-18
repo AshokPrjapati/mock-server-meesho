@@ -1,64 +1,264 @@
 {
-    "users": [
+    "products": [
       {
-        "id": 1,
-        "name": "Gertrudis Tatterton",
-        "age": 18,
-        "email": "gtatterton0@ehow.com"
+        "id":1,
+        "image":"https://images.meesho.com/images/products/162582930/d0yc2_512.webp",
+        "title":"Womens Stylish Straight Khadi Cotton Kurta",
+        "price":565,
+        "reviews":{
+          "rate":4.1,
+          "count":269
+        },
+        "discount":65,
+        "category":"women-ethnic" ,
+        "description":"Fancy Very Stylish For Look Very Fashionable Garments Also It Has A Plain Khadi Cotton Fabric Used Kurti For Women's Also It Has multi Color 3/4 Sleeve And V Neck And It Has Very Stylish Pleated Pattern At Fancy Plain Kurti From BUXOMFOODS."
+    },
+    {
+      "id":2,
+      "image":"https://images.meesho.com/images/products/175747025/5ugld_512.webp",
+      "title":"Diwali Dhamaka Festival Special embroidered cotton saree",
+      "price":315,
+      "reviews":{
+        "rate":3.1,
+        "count":9
       },
-      {
-        "id": 2,
-        "name": "Gail Newbatt",
-        "age": 53,
-        "email": "gnewbatt1@un.org"
+      "discount":15,
+      "category":"women-ethnic" ,
+      "description":"Saree Fabric : Chanderi cotton silk with embroidery work , Note : Blouse not available in this saree."
+    },
+    {
+      "id":3,
+      "image":"https://images.meesho.com/images/products/170681718/ytr2v_512.webp",
+      "title":"Chitrarekha Attractive Kurtis",
+      "price":645,
+      "reviews":{
+        "rate":3.8,
+        "count":407
       },
-      {
-        "id": 3,
-        "name": "Walliw Wilstead",
-        "age": 49,
-        "email": "wwilstead2@tripadvisor.com"
+      "discount":45,
+      "category":"women-ethnic" ,
+      "description":"IT IS A HEAVY FOX GEORGETTE FLARED GOWNS WITH EMBROIDERY MIRROR WORK.LONG SLEEVES WITH EMBROIDERY WORK.lENGTH IS 54+ INCHES.FULL INNER INSIDE."
+    },
+    {
+      "id":4,
+      "image":"https://images.meesho.com/images/products/169129260/8rv30_512.webp",
+      "title":"jecquard saree",
+      "price":729,
+      "reviews":{
+        "rate":3.8,
+        "count":856
       },
-      {
-        "id": 4,
-        "name": "Abran Proback",
-        "age": 29,
-        "email": "aproback3@theglobeandmail.com"
+      "discount":29,
+      "category":"women-ethnic" ,
+      "description":"IT IS A HEAVY FOX GEORGETTE FLARED GOWNS WITH EMBROIDERY MIRROR WORK.LONG SLEEVES WITH EMBROIDERY WORK.lENGTH IS 54+ INCHES.FULL INNER INSIDE."
+    },
+    {
+      "id":5,
+      "image":"https://images.meesho.com/images/products/175747706/jcdyz_512.webp",
+      "title":"Embroidered cotton saree",
+      "price":315,
+      "reviews":{
+        "rate":3.8,
+        "count":95325
       },
-      {
-        "id": 5,
-        "name": "Roda Chappelow",
-        "age": 31,
-        "email": "rchappelow4@oaic.gov.au"
+      "discount":15,
+      "category":"women-ethnic" ,
+      "description":"Chanderi cotton silk with embroidery work , Note : Blouse not available in this saree."
+    },
+    {
+      "id":6,
+      "image":"https://images.meesho.com/images/products/150297069/xs2xx_512.webp",
+      "title":"Nayra Vol-2",
+      "price":430,
+      "reviews":{
+        "rate":3.6,
+        "count":777
       },
-      {
-        "id": 6,
-        "name": "Karney Wylie",
-        "age": 22,
-        "email": "kwylie5@miitbeian.gov.cn"
+      "discount":27,
+      "category":"women-ethnic" ,
+      "description":"Rayon Sleeve Length: Three-Quarter Sleeves Pattern: Printed FABRIC: 14kg Rayon WORK :- Foil print With Embroidery mirror work."
+    },
+    {
+      "id":7,
+      "image":"https://images.meesho.com/images/products/97668754/lys3m_512.webp",
+      "title":"Chandari cottan saree",
+      "price":364,
+      "reviews":{
+        "rate":3.9,
+        "count":24
       },
-      {
-        "id": 7,
-        "name": "Cammi Pimbley",
-        "age": 63,
-        "email": "cpimbley6@nyu.edu"
+      "discount":14,
+      "category":"women-ethnic" ,
+      "description":"Rayon Sleeve Length: Three-Quarter Sleeves Pattern: Printed FABRIC: 14kg Rayon WORK :- Foil print With Embroidery mirror work."
+    },
+    {
+      "id":8,
+      "image":"https://images.meesho.com/images/products/148459120/jrxdh_512.webp",
+      "title":"Aakarsha Ensemble Kurtis",
+      "price":282,
+      "reviews":{
+        "rate":4.2,
+        "count":39
       },
-      {
-        "id": 8,
-        "name": "Gavra Manning",
-        "age": 43,
-        "email": "gmanning7@lycos.com"
+      "discount":82,
+      "category":"women-ethnic" ,
+      "description":"Chanderi cotton silk with embroidery work , Note : IT HAS 1 KHADI COTTON KURTI."
+    },
+    {
+      "id":9,
+      "image":"https://images.meesho.com/images/products/80999402/yzuxc_512.webp",
+      "title":"Jequard Silk Saree",
+      "price":688,
+      "reviews":{
+        "rate":4,
+        "count":9
       },
-      {
-        "id": 9,
-        "name": "Zachary Seward",
-        "age": 45,
-        "email": "zseward8@oracle.com"
+      "discount":88,
+      "category":"women-ethnic" ,
+      "description":"Free Size (Saree Length Size : 5.5 m, Blouse Length Size: 0.8 m)."
+    },
+    {
+      "id":10,
+      "image":"https://images.meesho.com/images/products/159960277/ooxsj_512.webp",
+      "title":"Lehenga Choli",
+      "price":770,
+      "reviews":{
+        "rate":3.6,
+        "count":51
       },
-      {
-        "id": 10,
-        "name": "Chucho Norssister",
-        "age": 20,
-        "email": "cnorssister9@mayoclinic.com"
-      }
+      "discount":170,
+      "category":"women-ethnic" ,
+      "description":"Semi Stitched (Lehenga Waist Size : 44 in, Lehenga Length Size: 44 in, Duppatta Length Size: 2.15 in). Un Stitched (Lehenga Waist Size : 44 m, Lehenga Length Size: 44 m, Duppatta Length Size: 2.15 m).Free Size (Lehenga Waist Size : 44 m, Lehenga Length Size: 44 m, Duppatta Length Size: 2.15 m))."
+    },
+    {
+      "id":11,
+      "image":"https://images.meesho.com/images/products/110089029/zxv7f_512.webp",
+      "title":"Kurti",
+      "price":309,
+      "reviews":{
+        "rate":3.6,
+        "count":409
+      },
+      "discount":9,
+      "category":"women-ethnic" ,
+      "description":"Fancy Very Stylish For Look Very Fashionable Garments Also It Has A Plain Khadi Cotton Fabric Used Kurti For Women's Also It Has multi Color 3/4 Sleeve And V Neck And It Has Very Stylish Pleated Pattern At Fancy Plain Kurti From BUXOMFOODS."
+    },
+    {
+      "id":12,
+      "image":"https://images.meesho.com/images/products/174249194/diqmr_512.webp",
+      "title":"Lace Border saree",
+      "price":362,
+      "reviews":{
+        "rate":3.6,
+        "count":954
+      },
+      "discount":0,
+      "category":"women-ethnic" ,
+      "description":"Sada saubhagyavati bhava lace Border saree. Free Size (Saree Length Size : 5.5 m, Blouse Length Size: 0.8 m)."
+    },
+    {
+      "id":13,
+      "image":"https://images.meesho.com/images/products/173999416/22owe_512.webp",
+      "title":"NEW STRAIGHT KURTI",
+      "price":303,
+      "reviews":{
+        "rate":4.0,
+        "count":96
+      },
+      "discount":53,
+      "category":"women-ethnic" ,
+      "description":"women, men and children. Customers can expect a world-class shopping environment stocking the latest in international fashion from around the globe, as well as OM SAI LATEST CREATION's own label of in-house designs in carefully chosen colour palettes. Pioneering the concept of ‘Latest fashion at great prices’ in India."
+    },
+    {
+      "id":14,
+      "image":"https://images.meesho.com/images/products/149759064/lo4ih_512.webp",
+      "title":"Khodal fab Petite Saree",
+      "price":718,
+      "reviews":{
+        "rate":4.3,
+        "count":18
+      },
+      "discount":0,
+      "category":"women-ethnic" ,
+      "description":"Chanderi cotton silk with embroidery work , Note : Blouse available in this saree."
+    },
+    {
+      "id":15,
+      "image":"https://images.meesho.com/images/products/82499716/0hwjw_512.webp",
+      "title":"Myra Drishya Saree",
+      "price":485,
+      "reviews":{
+        "rate":3.6,
+        "count":33
+      },
+      "discount":85,
+      "category":"women-ethnic" ,
+      "description":"pure mercerised DELTA SMOKE pallu with SEQUENCE LACE with SEQUENCE matching blouse. Separate Blouse Piece Blouse. MINOR COLOUR CHANGE SHOW IN IMAGE B'COS CAMERA EFFECT."
+    },
+    {
+      "id":16,
+      "image":"https://images.meesho.com/images/products/150780973/cg1qs_512.webp",
+      "title":"Royal Blue Nimra Abaya",
+      "price":807,
+      "reviews":{
+        "rate":4.2,
+        "count":392
+      },
+      "discount":0,
+      "category":"women-ethnic" ,
+      "description":"Latest Fancy firdos fabric abaya burqa with scarf dupatta & nose piece beautiful belt design on hip and fine button design on front beautiful cuf design on sleeves."
+    },
+    {
+      "id":17,
+      "image":"https://images.meesho.com/images/products/40997003/74667_512.webp",
+      "title":"Royal Blue Nimra Abaya",
+      "price":353,
+      "reviews":{
+        "rate":4.2,
+        "count":503
+      },
+      "discount":53,
+      "category":"women-ethnic" ,
+      "description":"This Kurta can be worn as a casual wear kurta, daily wear kurta, festive wear kurta and party wear kurta. Can be worn with different outfit like leggings, accessorized, flared palazzos or a skirt."
+    },
+    {
+      "id":18,
+      "image":"https://images.meesho.com/images/products/174857298/nw8lz_512.webp",
+      "title":"NEW LATKAN SAREE",
+      "price":335,
+      "reviews":{
+        "rate":3.2,
+        "count":492
+      },
+      "discount":35,
+      "category":"women-ethnic" ,
+      "description":"AADISHAKTI FASHION LATEST SAREE COLLECTION FOR FESTIVE SEASON. Free Size (Saree Length Size : 5.5 m, Blouse Length Size: 0.8 m)."
+    },
+    {
+      "id":19,
+      "image":"https://images.meesho.com/images/products/75345010/pvvv1_512.webp",
+      "title":"Saubhagyavati bhava dupatta",
+      "price":527,
+      "reviews":{
+        "rate":4.4,
+        "count":73
+      },
+      "discount":0,
+      "category":"women-ethnic" ,
+      "description":"BRIDAL DUPATTA. Dupatta Length : 2.50 Meter. Butterfly net Bodar With Embrodery Work."
+    },
+    {
+      "id":20,
+      "image":"https://images.meesho.com/images/products/75345010/pvvv1_512.webp",
+      "title":"Fancy Printed Saree",
+      "price":320,
+      "reviews":{
+        "rate":4.9,
+        "count":13
+      },
+      "discount":20,
+      "category":"women-ethnic" ,
+      "description":"Printed Saree. it is good for daily wear, Contrasting matching blouse comes along with this to add the glam."
+    }
     ]
   }
